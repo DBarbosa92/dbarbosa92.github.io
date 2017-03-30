@@ -1,0 +1,27 @@
+
+title: 'Daniel Barbosa - Resume'
+url: 'https://github.com/Preyes161'
+
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+
+#Profile information
+name: Daniel Barbosa
+tagline: Full Stack Developer
+pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+#sidebar links
+email: dan.j.barbosa@gmail.com
+linkedin: daniel-barbosa-85a7a426
+skype: 'dan.barbosa92'
+
+
+# Tracker
+analytics: UA-83979019-1
+#Update all the sections by editing the files inside _includes folder.
